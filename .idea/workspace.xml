@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/../Real estate scrapping OtoDom/OnlineAuctionsList.py" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac072fe-cce6-4693-9ce4-f3b43204e16d" name="Default" comment="Version after successful scrap">
+    <list default="true" id="4ac072fe-cce6-4693-9ce4-f3b43204e16d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Real estate scrapping OtoDom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Real estate scrapping OtoDom/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -312,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519919062258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version after successful scrap">
+      <created>1519919433161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519919433161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
