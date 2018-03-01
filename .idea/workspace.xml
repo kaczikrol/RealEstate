@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/../Real estate scrapping OtoDom/OnlineAuctionsList.py" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac072fe-cce6-4693-9ce4-f3b43204e16d" name="Default" comment="" />
+    <list default="true" id="4ac072fe-cce6-4693-9ce4-f3b43204e16d" name="Default" comment="Version after successful scrap">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Real estate scrapping OtoDom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Real estate scrapping OtoDom/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/../Real estate scrapping OtoDom/AuctionsData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -80,6 +82,7 @@
         <option value="$PROJECT_DIR$/AuctionClass.py" />
         <option value="$PROJECT_DIR$/OnlineAuctionsList.py" />
         <option value="$PROJECT_DIR$/AuctionsData.py" />
+        <option value="$PROJECT_DIR$/../Real estate scrapping OtoDom/AuctionsData.py" />
       </list>
     </option>
   </component>
@@ -124,7 +127,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Real estate scrapping OtoDom" />
   </component>
   <component name="RunDashboard">
@@ -302,6 +305,14 @@
       <option name="presentableId" value="Default" />
       <updated>1517243931824</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version after successful scrap">
+      <created>1519919062258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519919062258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -359,6 +370,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version after successful scrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version after successful scrap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -603,7 +618,7 @@
     <entry file="file://$PROJECT_DIR$/../Real estate scrapping OtoDom/AuctionsData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#0#57#0" expanded="true" />
           </folding>
