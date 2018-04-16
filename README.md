@@ -1,5 +1,5 @@
 <b>Important</b>
-For reading RealEstateMarketAnalysis.ipynb please use http://nbviewer.jupyter.org 
+For reading Analysis.ipynb please use http://nbviewer.jupyter.org 
 <br>
 Please click: <b>http://nbviewer.jupyter.org/github/kaczikrol/RealEstate/blob/master/Analysis.ipynb</b>
 
