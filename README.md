@@ -1,6 +1,7 @@
 <b>Important</b>
-For reading RealEstateMarketAnalysis.ipynb please use http://nbviewer.jupyter.org
-Please click: <b>http://nbviewer.jupyter.org/github/kaczikrol/RealEstate/blob/master/RealEstateMarketAnalysis.ipynb</b>
+For reading Analysis.ipynb please use http://nbviewer.jupyter.org 
+<br>
+Please click: <b>http://nbviewer.jupyter.org/github/kaczikrol/RealEstate/blob/master/Analysis.ipynb</b>
 
 <b><i>Project is still in development</b></i>
 
