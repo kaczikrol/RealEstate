@@ -1,7 +1,7 @@
 <b>Important</b>
 For reading Analysis.ipynb please use http://nbviewer.jupyter.org 
 <br>
-Please click: <b>http://nbviewer.jupyter.org/github/kaczikrol/RealEstate/blob/master/AnalysisNotebook.ipynb?flush_cache=true</b>
+Please click: <b>http://nbviewer.jupyter.org/github/kaczikrol/RealEstate/blob/master/AnalysisNotebook.ipynb</b>
 
 <b><i>Project is still in development</b></i>
 
